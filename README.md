@@ -1,4 +1,5 @@
-## Hi there 👋
+# --->>> [trademarked69.github.io](https://trademarked69.github.io/) <<<---  
+trademarked69.github.io is the most organized way to view my releases.
 
 <!--
 **Trademarked69/Trademarked69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
